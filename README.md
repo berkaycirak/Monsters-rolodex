@@ -1,5 +1,6 @@
 # Demo of the Project
-![monsters rolodex](https://user-images.githubusercontent.com/81809211/168256862-f9889f8a-59c6-4ca8-9b57-08d81d12faf9.png)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/81809211/171519374-0645aac8-4497-430c-a4e0-6c2f85865933.gif)
+
 
 # Getting Started with Create React App
 
